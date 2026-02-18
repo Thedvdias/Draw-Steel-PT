@@ -11,32 +11,32 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## 📊 Progresso
 
 <!-- START_PROGRESS -->
-**Overall: 43/225 — 19.1%**
-███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+**Overall: 109/227 — 48.0%**
+███████████████████░░░░░░░░░░░░░░░░░░░░░
 
 ---
 
 ## 📚 Livros
 
-### Heróis — 28%
-████████░░░░░░░░░░░░░░░░░░░░░░
-- **1 - Introdução** — 0%
-- **2 - O Básico** — 0%
+### Heróis — 73%
+█████████████████████░░░░░░░░░
+- **1 - Introdução** — 100%
+- **2 - O Básico** — 100%
 - **3 - Criando um Herói** — 0%
-- **4 - Linhagens** — 0%
-- **5 - Antecedentes** — 0%
-- **6 - Classes** — 0%
-- **7 - Kits** — 0%
-- **8 - Aprimoramentos** — 0%
-- **9 - Complicações** — 0%
+- **4 - Linhagens** — 100%
+- **5 - Antecedentes** — 100%
+- **6 - Classes** — 25%
+- **7 - Kits** — 100%
+- **8 - Aprimoramentos** — 100%
+- **9 - Complicações** — 100%
 - **10 - Testes** — 100%
 - **11 - Combate** — 0%
 - **12 - Negociação** — 100%
 - **13 - Projetos de Tempo Livre** — 0%
-- **14 - Recompensas** — 0%
+- **14 - Recompensas** — 100%
 - **15 - Deuses e Religião** — 100%
 - **16 - Para o Diretor** — 100%
-- **Extras** — 0%
+- **Extras** — 100%
 
 ### Monstros — 3%
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -49,28 +49,13 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 
 ## 🗂 Index
 
-- **Aprimoramentos** — 0%
-- **Carreiras** — 0%
-- **Classes Por Nível** — 0%
-- **Complicações** — 0%
-- **Condições** — 0%
-- **Culturas** — 0%
-- **Habilidades** — 0%
-- **Kits** — 0%
 - **Linhagens** — 0%
-- **Movimento** — 0%
-- **Negociação** — 0%
-- **Perícias** — 0%
-- **Recursos** — 0%
-- **Tesouros** — 0%
-- **Títulos** — 0%
 
 ---
 
 ## ❌ Untranslated files
 
-- Livros/Heróis/1 - Introdução/1.1 - O que é esse jogo
-- Livros/Heróis/1 - Introdução/1.2 - Glossário
+- Index/Linhagens/Anão
 - Livros/Heróis/11 - Combate/11.0 - Combate
 - Livros/Heróis/11 - Combate/11.1 - Preparando o Mapa
 - Livros/Heróis/11 - Combate/11.10 - Cobertura
@@ -96,56 +81,14 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 - Livros/Heróis/13 - Projetos de Tempo Livre/13.4 - Projetos de Criação
 - Livros/Heróis/13 - Projetos de Tempo Livre/13.5 - Projetos de Pesquisa
 - Livros/Heróis/13 - Projetos de Tempo Livre/13.6 - Outros Projetos
-- Livros/Heróis/14 - Recompensas/14.0 - Recompensas
-- Livros/Heróis/14 - Recompensas/14.1 - Tesouros
-- Livros/Heróis/14 - Recompensas/14.2 - Títulos
-- Livros/Heróis/14 - Recompensas/14.3 - Renome
-- Livros/Heróis/14 - Recompensas/14.4 - Riqueza
-- Livros/Heróis/2 - O Básico/2.0 - O Básico
-- Livros/Heróis/2 - O Básico/2.1 - Características
-- Livros/Heróis/2 - O Básico/2.10 - Construindo uma Narrativa Heroica
-- Livros/Heróis/2 - O Básico/2.11 - Escalões de Jogo
-- Livros/Heróis/2 - O Básico/2.12 - Orden e a Timescape
-- Livros/Heróis/2 - O Básico/2.2 - Dados
-- Livros/Heróis/2 - O Básico/2.3 - Lançamentos de Poder
-- Livros/Heróis/2 - O Básico/2.4 - Vales Heróicos
-- Livros/Heróis/2 - O Básico/2.5 - Jogo de Exceções
-- Livros/Heróis/2 - O Básico/2.6 - Sempre Arredonde para Baixo
-- Livros/Heróis/2 - O Básico/2.7 - Criaturas e Objetos
-- Livros/Heróis/2 - O Básico/2.8 - Sobrenatural ou Mundano
-- Livros/Heróis/2 - O Básico/2.9 - PCs e NPCs
 - Livros/Heróis/3 - Criando um Herói/3.0 - Criando um Herói
 - Livros/Heróis/3 - Criando um Herói/3.1 - Sua Primeira Sessão
 - Livros/Heróis/3 - Criando um Herói/3.2 - Criando um Herói Passo-a-Passo
 - Livros/Heróis/3 - Criando um Herói/3.3 - Equipamento para Aventuras
 - Livros/Heróis/3 - Criando um Herói/3.4 - Trocando Opções de Personagem
 - Livros/Heróis/3 - Criando um Herói/3.5 - Progresso Heróico
-- Livros/Heróis/4 - Linhagens/4.0 - Linhagens
-- Livros/Heróis/4 - Linhagens/4.1 - A Origem das Espécies
-- Livros/Heróis/4 - Linhagens/4.10 - Alto Elfo
-- Livros/Heróis/4 - Linhagens/4.11 - Hakaan
-- Livros/Heróis/4 - Linhagens/4.12 - Humano
-- Livros/Heróis/4 - Linhagens/4.13 - Memonek
-- Livros/Heróis/4 - Linhagens/4.14 - Orc
-- Livros/Heróis/4 - Linhagens/4.15 - Polder
-- Livros/Heróis/4 - Linhagens/4.16 - Ressurgido
-- Livros/Heróis/4 - Linhagens/4.17 - Invasor do Futuro
-- Livros/Heróis/4 - Linhagens/4.2 - Nomes por Linhagem
-- Livros/Heróis/4 - Linhagens/4.3 - Medidas
-- Livros/Heróis/4 - Linhagens/4.4 - Tamanho e Velocidade Inicial
-- Livros/Heróis/4 - Linhagens/4.5 - Traços de Linhagem
-- Livros/Heróis/4 - Linhagens/4.6 - Diabo
-- Livros/Heróis/4 - Linhagens/4.7 - Cavaleiro Dragão
-- Livros/Heróis/4 - Linhagens/4.8 - Anão
-- Livros/Heróis/4 - Linhagens/4.9 - Elfo Silvestre
-- Livros/Heróis/5 - Antecedentes/5.0 - Antecedentes
-- Livros/Heróis/5 - Antecedentes/5.1 - Cultura
-- Livros/Heróis/5 - Antecedentes/5.2 - Carreira
-- Livros/Heróis/6 - Classes/6.0 - Classes
-- Livros/Heróis/6 - Classes/6.1 - Subclasses
 - Livros/Heróis/6 - Classes/6.10 - Talento
 - Livros/Heróis/6 - Classes/6.11 - Trovador
-- Livros/Heróis/6 - Classes/6.2 - Habilidades
 - Livros/Heróis/6 - Classes/6.3 - Censurador
 - Livros/Heróis/6 - Classes/6.4 - Conduíta
 - Livros/Heróis/6 - Classes/6.5 - Elementalista
@@ -153,27 +96,6 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 - Livros/Heróis/6 - Classes/6.7 - Nulo
 - Livros/Heróis/6 - Classes/6.8 - Sombra
 - Livros/Heróis/6 - Classes/6.9 - Tático
-- Livros/Heróis/7 - Kits/7.0 - Kits
-- Livros/Heróis/7 - Kits/7.1 - Trocando o Seu Kit
-- Livros/Heróis/7 - Kits/7.2 - Equipamento por Kit
-- Livros/Heróis/7 - Kits/7.3 - Bonuses e Traços por Kit
-- Livros/Heróis/7 - Kits/7.4 - Habilidade Clássica por Kit
-- Livros/Heróis/7 - Kits/7.5 - Kits A a Z
-- Livros/Heróis/8 - Aprimoramentos/8.0 - Aprimoramentos
-- Livros/Heróis/8 - Aprimoramentos/8.1 - Tipos de Aprimoramentos
-- Livros/Heróis/8 - Aprimoramentos/8.2 - Aprimoramentos de Criação
-- Livros/Heróis/8 - Aprimoramentos/8.3 - Aprimoramentos de Exploração
-- Livros/Heróis/8 - Aprimoramentos/8.4 - Aprimoramentos Interpessoais
-- Livros/Heróis/8 - Aprimoramentos/8.5 - Aprimoramentos de Intriga
-- Livros/Heróis/8 - Aprimoramentos/8.6 - Aprimoramentos de Conhecimento
-- Livros/Heróis/8 - Aprimoramentos/8.7 - Aprimoramentos Sobrenaturais
-- Livros/Heróis/9 - Complicações/9.0 - Complicações
-- Livros/Heróis/9 - Complicações/9.1 - Benefício e Inconveniência
-- Livros/Heróis/9 - Complicações/9.2 - Modificando a História
-- Livros/Heróis/9 - Complicações/9.3 - Escolhendo uma Complicação
-- Livros/Heróis/Extras/Carta Aberta
-- Livros/Heróis/Extras/Créditos
-- Livros/Heróis/Extras/Licença para Criadores
 - Livros/Monstros/1 - Básico de Monstros/1.1 - O Propósito dos Monstros
 - Livros/Monstros/1 - Básico de Monstros/1.10 - Redesenhando Monstros
 - Livros/Monstros/1 - Básico de Monstros/1.11 - Ajustando Níveis dos Monstros
