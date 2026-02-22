@@ -11,7 +11,7 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## 📊 Progresso
 
 <!-- START_PROGRESS -->
-**Overall: 109/227 — 48.0%**
+**Overall: 110/227 — 48.5%**
 ███████████████████░░░░░░░░░░░░░░░░░░░░░
 
 ---
@@ -19,13 +19,13 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## 📚 Livros
 
 ### Heróis — 73%
-█████████████████████░░░░░░░░░
+██████████████████████░░░░░░░░
 - **1 - Introdução** — 100%
 - **2 - O Básico** — 100%
 - **3 - Criando um Herói** — 0%
 - **4 - Linhagens** — 100%
 - **5 - Antecedentes** — 100%
-- **6 - Classes** — 25%
+- **6 - Classes** — 33%
 - **7 - Kits** — 100%
 - **8 - Aprimoramentos** — 100%
 - **9 - Complicações** — 100%
@@ -90,7 +90,6 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 - Livros/Heróis/6 - Classes/6.10 - Talento
 - Livros/Heróis/6 - Classes/6.11 - Trovador
 - Livros/Heróis/6 - Classes/6.3 - Censurador
-- Livros/Heróis/6 - Classes/6.4 - Conduíta
 - Livros/Heróis/6 - Classes/6.5 - Elementalista
 - Livros/Heróis/6 - Classes/6.6 - Fúria
 - Livros/Heróis/6 - Classes/6.7 - Nulo
