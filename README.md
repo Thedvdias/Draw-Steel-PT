@@ -11,21 +11,21 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## 📊 Progresso
 
 <!-- START_PROGRESS -->
-**Overall: 110/227 — 48.5%**
+**Overall: 111/227 — 48.9%**
 ███████████████████░░░░░░░░░░░░░░░░░░░░░
 
 ---
 
 ## 📚 Livros
 
-### Heróis — 73%
+### Heróis — 74%
 ██████████████████████░░░░░░░░
 - **1 - Introdução** — 100%
 - **2 - O Básico** — 100%
 - **3 - Criando um Herói** — 0%
 - **4 - Linhagens** — 100%
 - **5 - Antecedentes** — 100%
-- **6 - Classes** — 33%
+- **6 - Classes** — 42%
 - **7 - Kits** — 100%
 - **8 - Aprimoramentos** — 100%
 - **9 - Complicações** — 100%
@@ -92,7 +92,6 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 - Livros/Heróis/6 - Classes/6.3 - Censurador
 - Livros/Heróis/6 - Classes/6.5 - Elementalista
 - Livros/Heróis/6 - Classes/6.6 - Fúria
-- Livros/Heróis/6 - Classes/6.7 - Nulo
 - Livros/Heróis/6 - Classes/6.8 - Sombra
 - Livros/Heróis/6 - Classes/6.9 - Tático
 - Livros/Monstros/1 - Básico de Monstros/1.1 - O Propósito dos Monstros
