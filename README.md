@@ -11,15 +11,15 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## 📊 Progresso
 
 <!-- START_PROGRESS -->
-**Overall: 111/227 — 48.9%**
-███████████████████░░░░░░░░░░░░░░░░░░░░░
+**Overall: 118/227 — 52.0%**
+████████████████████░░░░░░░░░░░░░░░░░░░░
 
 ---
 
 ## 📚 Livros
 
-### Heróis — 74%
-██████████████████████░░░░░░░░
+### Heróis — 79%
+███████████████████████░░░░░░░
 - **1 - Introdução** — 100%
 - **2 - O Básico** — 100%
 - **3 - Criando um Herói** — 0%
@@ -32,7 +32,7 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 - **10 - Testes** — 100%
 - **11 - Combate** — 0%
 - **12 - Negociação** — 100%
-- **13 - Projetos de Tempo Livre** — 0%
+- **13 - Projetos de Tempo Livre** — 100%
 - **14 - Recompensas** — 100%
 - **15 - Deuses e Religião** — 100%
 - **16 - Para o Diretor** — 100%
@@ -74,13 +74,6 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 - Livros/Heróis/11 - Combate/11.7 - Ação Principal
 - Livros/Heróis/11 - Combate/11.8 - Golpes Simples
 - Livros/Heróis/11 - Combate/11.9 - Flanqueando
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.0 - Projetos de Tempo Livre
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.1 - Acompanhar Projetos
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.2 - Pré-requisitos de Projeto
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.3 - Lançamento de Proejto
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.4 - Projetos de Criação
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.5 - Projetos de Pesquisa
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.6 - Outros Projetos
 - Livros/Heróis/3 - Criando um Herói/3.0 - Criando um Herói
 - Livros/Heróis/3 - Criando um Herói/3.1 - Sua Primeira Sessão
 - Livros/Heróis/3 - Criando um Herói/3.2 - Criando um Herói Passo-a-Passo
