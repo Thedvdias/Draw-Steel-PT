@@ -11,15 +11,15 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## 📊 Progresso
 
 <!-- START_PROGRESS -->
-**Overall: 137/227 — 60.4%**
+**Overall: 141/227 — 62.1%**
 ████████████████████████░░░░░░░░░░░░░░░░
 
 ---
 
 ## 📚 Livros
 
-### Heróis — 92%
-███████████████████████████░░░
+### Heróis — 95%
+████████████████████████████░░
 - **1 - Introdução** — 100%
 - **2 - O Básico** — 100%
 - **3 - Criando um Herói** — 0%
