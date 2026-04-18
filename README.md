@@ -11,15 +11,15 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## 📊 Progresso
 
 <!-- START_PROGRESS -->
-**Overall: 115/227 — 50.7%**
-████████████████████░░░░░░░░░░░░░░░░░░░░
+**Overall: 147/227 — 64.8%**
+█████████████████████████░░░░░░░░░░░░░░░
 
 ---
 
 ## 📚 Livros
 
-### Heróis — 77%
-███████████████████████░░░░░░░
+### Heróis — 99%
+█████████████████████████████░
 - **1 - Introdução** — 100%
 - **2 - O Básico** — 100%
 - **3 - Criando um Herói** — 100%
@@ -56,32 +56,6 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## ❌ Untranslated files
 
 - Index/Linhagens/Anão
-- Livros/Heróis/11 - Combate/11.0 - Combate
-- Livros/Heróis/11 - Combate/11.1 - Preparando o Mapa
-- Livros/Heróis/11 - Combate/11.10 - Cobertura
-- Livros/Heróis/11 - Combate/11.12 - Encobrimento
-- Livros/Heróis/11 - Combate/11.13 - Dano
-- Livros/Heróis/11 - Combate/11.14 - Vigor
-- Livros/Heróis/11 - Combate/11.15 - Combate Debaixo De Água
-- Livros/Heróis/11 - Combate/11.16 - Sufocando
-- Livros/Heróis/11 - Combate/11.17 - Combate em Montaria
-- Livros/Heróis/11 - Combate/11.18 - Fim do Combate
-- Livros/Heróis/11 - Combate/11.2 - Ronda de Combate
-- Livros/Heróis/11 - Combate/11.3 - O seu Turno
-- Livros/Heróis/11 - Combate/11.4 - Movimento
-- Livros/Heróis/11 - Combate/11.5 - Ação de Movimento
-- Livros/Heróis/11 - Combate/11.6 - Manobra
-- Livros/Heróis/11 - Combate/11.7 - Ação Principal
-- Livros/Heróis/11 - Combate/11.8 - Golpes Simples
-- Livros/Heróis/11 - Combate/11.9 - Flanqueando
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.0 - Projetos de Tempo Livre
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.1 - Acompanhar Projetos
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.2 - Pré-requisitos de Projeto
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.3 - Lançamento de Proejto
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.4 - Projetos de Criação
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.5 - Projetos de Pesquisa
-- Livros/Heróis/13 - Projetos de Tempo Livre/13.6 - Outros Projetos
-- Livros/Heróis/6 - Classes/6.10 - Talento
 - Livros/Heróis/6 - Classes/6.11 - Trovador
 - Livros/Heróis/6 - Classes/6.6 - Fúria
 - Livros/Monstros/1 - Básico de Monstros/1.1 - O Propósito dos Monstros
