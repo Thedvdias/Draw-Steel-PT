@@ -25,14 +25,14 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 - **3 - Criando um Herói** — 100%
 - **4 - Linhagens** — 100%
 - **5 - Antecedentes** — 100%
-- **6 - Classes** — 25%
+- **6 - Classes** — 83%
 - **7 - Kits** — 100%
 - **8 - Aprimoramentos** — 100%
 - **9 - Complicações** — 100%
 - **10 - Testes** — 100%
-- **11 - Combate** — 0%
+- **11 - Combate** — 100%
 - **12 - Negociação** — 100%
-- **13 - Projetos de Tempo Livre** — 0%
+- **13 - Projetos de Tempo Livre** — 100%
 - **14 - Recompensas** — 100%
 - **15 - Deuses e Religião** — 100%
 - **16 - Para o Diretor** — 100%
@@ -83,13 +83,7 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 - Livros/Heróis/13 - Projetos de Tempo Livre/13.6 - Outros Projetos
 - Livros/Heróis/6 - Classes/6.10 - Talento
 - Livros/Heróis/6 - Classes/6.11 - Trovador
-- Livros/Heróis/6 - Classes/6.3 - Censurador
-- Livros/Heróis/6 - Classes/6.4 - Conduíta
-- Livros/Heróis/6 - Classes/6.5 - Elementalista
 - Livros/Heróis/6 - Classes/6.6 - Fúria
-- Livros/Heróis/6 - Classes/6.7 - Nulo
-- Livros/Heróis/6 - Classes/6.8 - Sombra
-- Livros/Heróis/6 - Classes/6.9 - Tático
 - Livros/Monstros/1 - Básico de Monstros/1.1 - O Propósito dos Monstros
 - Livros/Monstros/1 - Básico de Monstros/1.10 - Redesenhando Monstros
 - Livros/Monstros/1 - Básico de Monstros/1.11 - Ajustando Níveis dos Monstros
