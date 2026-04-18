@@ -11,18 +11,18 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## 📊 Progresso
 
 <!-- START_PROGRESS -->
-**Overall: 141/227 — 62.1%**
-████████████████████████░░░░░░░░░░░░░░░░
+**Overall: 147/227 — 64.8%**
+█████████████████████████░░░░░░░░░░░░░░░
 
 ---
 
 ## 📚 Livros
 
-### Heróis — 95%
-████████████████████████████░░
+### Heróis — 99%
+█████████████████████████████░
 - **1 - Introdução** — 100%
 - **2 - O Básico** — 100%
-- **3 - Criando um Herói** — 0%
+- **3 - Criando um Herói** — 100%
 - **4 - Linhagens** — 100%
 - **5 - Antecedentes** — 100%
 - **6 - Classes** — 83%
@@ -56,12 +56,6 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## ❌ Untranslated files
 
 - Index/Linhagens/Anão
-- Livros/Heróis/3 - Criando um Herói/3.0 - Criando um Herói
-- Livros/Heróis/3 - Criando um Herói/3.1 - Sua Primeira Sessão
-- Livros/Heróis/3 - Criando um Herói/3.2 - Criando um Herói Passo-a-Passo
-- Livros/Heróis/3 - Criando um Herói/3.3 - Equipamento para Aventuras
-- Livros/Heróis/3 - Criando um Herói/3.4 - Trocando Opções de Personagem
-- Livros/Heróis/3 - Criando um Herói/3.5 - Progresso Heróico
 - Livros/Heróis/6 - Classes/6.11 - Trovador
 - Livros/Heróis/6 - Classes/6.6 - Fúria
 - Livros/Monstros/1 - Básico de Monstros/1.1 - O Propósito dos Monstros
