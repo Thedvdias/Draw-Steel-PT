@@ -11,7 +11,7 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## 📊 Progresso
 
 <!-- START_PROGRESS -->
-**Overall: 118/227 — 52.0%**
+**Overall: 119/228 — 52.2%**
 ████████████████████░░░░░░░░░░░░░░░░░░░░
 
 ---
@@ -25,7 +25,7 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 - **3 - Criando um Herói** — 0%
 - **4 - Linhagens** — 100%
 - **5 - Antecedentes** — 100%
-- **6 - Classes** — 42%
+- **6 - Classes** — 46%
 - **7 - Kits** — 100%
 - **8 - Aprimoramentos** — 100%
 - **9 - Complicações** — 100%
