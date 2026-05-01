@@ -11,8 +11,8 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## 📊 Progresso
 
 <!-- START_PROGRESS -->
-**Overall: 142/228 — 62.3%**
-████████████████████████░░░░░░░░░░░░░░░░
+**Overall: 148/228 — 64.9%**
+█████████████████████████░░░░░░░░░░░░░░░
 
 ---
 
